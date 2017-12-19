@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: smsservice
+  profiles:
+    active:
+      home
+  cloud:
+    config:
+      enabled: true
