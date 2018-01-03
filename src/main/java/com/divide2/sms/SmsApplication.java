@@ -10,7 +10,6 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
  * com.divide2.sms
  */
 @SpringBootApplication
-@EnableOAuth2Sso
 public class SmsApplication {
 
     public static void main(String[] args) {
